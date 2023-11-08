@@ -1,0 +1,36 @@
+body   {
+    background-color: aqua;
+}
+p{
+    text-align: center;
+}
+strong{
+    color: crimson;
+}
+h1{
+    text-align: center;
+}
+imagem-banne{
+    text-align: center;
+}
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagembeneficios {
+    width: 50%;
+}
